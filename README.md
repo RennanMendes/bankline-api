@@ -8,7 +8,7 @@
 • <a href="#Objetivo">Objetivo</a>
  • <a href="#Preparação">Preparação</a> 
  • <a href="#Tecnologias">Tecnologias</a>
- • <a href="#Funcionalidades">Funcionalidades</a>
+ • <a href="#Funcionalidades-do-projeto">Funcionalidades</a>
 </p>
 
 ## Objetivo 
