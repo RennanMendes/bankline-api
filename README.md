@@ -12,7 +12,7 @@
 </p>
 
 ## Objetivo 
-Abstrair o domínio bancário em uma AIP REST capas de cadastrar novos usuários e acompanhar suas movimentações financeiras.
+Abstrair o domínio bancário em uma API REST capaz de cadastrar novos usuários e acompanhar suas movimentações financeiras.
 
 </br>
 
@@ -43,8 +43,16 @@ Foram utilizadas as seguintes tecnologias:
 
 `POST /movimentacoes`: Salva no bancos de dados as movimentações realizadas pelos usuários.
 
+`GET /movimentacoes/{id}`: Retorna os dados das movimentações realizadas por um usuário de acordo com o id.
+
 `GET /correntistas`: Retorna os dados dos usuários cadastardos no banco de dados.
 
 `POST /correntistas`: Cadastra novos usuários no banco de dados.
 
+</br>
+
 <img src="./assets/img/Swagger-api.png" width="100%"/>
+
+### Segue abaixo link do projeto no Heroku
+
+https://santander-dio-bankline-api.herokuapp.com/swagger-ui/index.html
